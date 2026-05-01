@@ -45,20 +45,6 @@
 
 <br>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Lubnaabd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" 
-    height="170" 
-    alt="GitHub stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubnaabd&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
-    height="170" 
-    alt="Top languages" 
-  />
-</div>
-
----
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -95,11 +81,11 @@
 </div>
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lubnaabd&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubnaabd&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top languages" />
-</div>
+</div> -->
