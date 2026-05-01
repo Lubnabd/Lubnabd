@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learning+by+building+from+scratch;42+Student+%7C+C+Programming+%7C+Linux;Always+debugging%2C+always+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=42+Student+%7C+C+Programming+%7C+Linux" alt="Typing SVG" />
 </div>
 
 ---
