@@ -29,7 +29,6 @@
   I'm a software engineering student at <b>42 Amman</b>, with hands-on experience in C-based systems programming, multithreading, and process management. Passionate about building reliable, scalable software and eager to contribute to high-impact distributed systems at scale
 </p>
 
-<br>
 
 <h2 align="center">🔥 My GitHub Activity</h2>
 
